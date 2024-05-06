@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/data-models#",
+        "schema": "https://schema.org/",
+        "PolarH10AcclerometerPayload": "fiware:PolarH10AcclerometerPayload",
+        "acc": "fiware:acc",
+        "clientId": "fiware:clientId",
+        "deviceId": "fiware:deviceId",
+        "sampleRate": "fiware:sampleRate",
+        "sensorTimeStamp": "fiware:sensorTimeStamp",
+        "sessionId": "fiware:sessionId",
+        "timeStamp": "fiware:timeStamp"
+    }
+}

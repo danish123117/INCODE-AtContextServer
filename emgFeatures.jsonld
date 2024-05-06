@@ -1,0 +1,15 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/data-models#",
+        "schema": "https://schema.org/",
+        "EmgFrequencyDomainFeatures": "fiware:EmgFrequencyDomainFeatures",
+        "meanFrequencyState": "fiware:meanFrequencyState",
+        "meanPowerFrequencyState": "fiware:meanPowerFrequencyState",
+        "medianFrequencyState": "fiware:medianFrequencyState",
+        "timeStamp": "fiware:timeStamp",
+        "zeroCrossingFrequencyState": "fiware:zeroCrossingFrequencyState"
+    }
+}

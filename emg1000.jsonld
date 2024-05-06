@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/data-models#",
+        "schema": "https://schema.org/",
+        "BtsFreeMG_1000": "fiware:BtsFreeMG_1000",
+        "data": "fiware:data",
+        "feaisibility": "fiware:feaisibility",
+        "index": "fiware:index",
+        "timeStamp": "fiware:timeStamp"
+    }
+}
