@@ -36,5 +36,10 @@ def get_test5():
     data = load_json('polarHR.jsonld')
     return jsonify(data)
 
+@app.route('/ngsi-context.jsonld', methods=['GET'])
+def get_test6():
+    data = load_json('ngsi-context.jsonld')
+    return jsonify(data)
+
 if __name__ == '__main__':
     serve(app, host= "0.0.0.0", port= 5051)
