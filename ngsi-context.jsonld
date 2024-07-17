@@ -27,6 +27,16 @@
         "PolarH10TopicHR": "fiware:PolarH10TopicHR",
         "hr": "fiware:hr",
         "hrv": "fiware:hrv",
-        "rr": "fiware:rr"
+        "rr": "fiware:rr",
+        "HrvFeatures": "fiware:HrvFeatures",
+        "meanRR": "fiware:meanRR",
+        "meanHR": "fiware:meanHR",
+        "SDNN": "fiware:SDNN",
+        "SDSD": "fiware:SDSD",
+        "RMSSD": "RMSSD",
+        "pNN50": "fiware:pNN50",
+        "pNN20": "fiware:pNN20",
+        "trialName": "fiware:trialName"
+
     }
 }
