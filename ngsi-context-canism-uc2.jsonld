@@ -1,0 +1,6 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/smart-data-models/dataModel.DistributedLedgerTech/master/context.jsonld",
+        "http://context.aa3-uc2.svc.cluster.local:5051/ngsi-context.jsonld"
+    ]
+}

@@ -31,12 +31,19 @@
         "HrvFeatures": "fiware:HrvFeatures",
         "meanRR": "fiware:meanRR",
         "meanHR": "fiware:meanHR",
-        "SDNN": "fiware:SDNN",
-        "SDSD": "fiware:SDSD",
-        "RMSSD": "RMSSD",
-        "pNN50": "fiware:pNN50",
-        "pNN20": "fiware:pNN20",
-        "trialName": "fiware:trialName"
+        "sdnn": "fiware:sdnn",
+        "sdsd": "fiware:sdsd",
+        "rmssd": "fiware:rmssd",
+        "pnn50": "fiware:pnn50",
+        "pnn20": "fiware:pnn20",
+        "trialName": "fiware:trialName",
+        "lfp": "fiware:lfp",
+        "hfp": "fiware:hfp",
+        "vlf": "fiware:vlf",
+        "lf": "fiware:lf",
+        "hf": "fiware:hf",
+        "lfhfratio": "fiware:lfhfratio",
+        "totalPower": "fiware:totalPower"
 
     }
 }
